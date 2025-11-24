@@ -1,9 +1,6 @@
-## Hi there 👋
-
-<!--
-**ShiFangming0823/ShiFangming0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=26&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=435&lines=AI+Security;Graduate Student;Otaku" alt="Header Animation" />
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
