@@ -11,3 +11,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShiFangming0823&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiFangming0823&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
+</div>
