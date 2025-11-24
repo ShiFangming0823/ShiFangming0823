@@ -16,7 +16,7 @@ class Researcher:
         return "shifangming0823@shu.edu.cn"
 ```
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShiFangming0823&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
