@@ -6,11 +6,11 @@
 ```
 class Researcher:
     def __init__(self):
-        self.name = "Shi Fangming"
+        self.name = "Fangming Shi"
         self.university = "Shanghai University"
         self.degree = "Master's Degree (In Progress)"
         self.interests = ["AI Security", "Model Watermarking"]
-        self.status = "Open to PhD opportunities for Fall 2027"
+        self.status = "Open to PhD opportunities for Fall 2027 / Spring 2028"
 
     def contact_me(self):
         return "shifangming0823@shu.edu.cn"
