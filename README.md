@@ -20,11 +20,11 @@ class Researcher:
 
 <p align="center">
   <img
-    width="49%"
+    width="40%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShiFangming0823&theme=nord_bright"
   />
   <img
-    width="49%"
+    width="40%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShiFangming0823&theme=nord_bright"
   />
 </p>
