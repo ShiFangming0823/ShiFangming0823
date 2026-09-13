@@ -18,7 +18,13 @@ class Researcher:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShiFangming0823&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiFangming0823&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShiFangming0823&theme=nord_bright"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShiFangming0823&theme=nord_bright"
+  />
+</p>
