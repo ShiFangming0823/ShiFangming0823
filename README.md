@@ -9,7 +9,7 @@ class Researcher:
         self.name = "Fangming Shi"
         self.university = "Shanghai University"
         self.degree = "Master's Degree (In Progress)"
-        self.interests = ["AI Security", "Model Watermarking"]
+        self.interests = ["AI Security", "AIGC Watermarking"]
         self.status = "Open to PhD opportunities for Fall 2027 / Spring 2028"
 
     def contact_me(self):
