@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Comic+Relief&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Security;Graduate+Student;Eclipse+First%2C+The+Rest+Nowhere&width=460" alt="Typing SVG" />
 </div>
 
-## 🤔Who am I?
+## 🤔 Who am I?
 ```
 class Researcher:
     def __init__(self):
@@ -28,3 +28,12 @@ class Researcher:
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShiFangming0823&theme=nord_bright"
   />
 </p>
+
+## 💰 老实Coding，很枯燥吧？
+
+<a href="https://github.com/Sur1ive/contribution-fx">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShiFangming0823/ShiFangming0823/output/contribution-fx-dark.svg" />
+    <img alt="contribution-fx" src="https://raw.githubusercontent.com/ShiFangming0823/ShiFangming0823/output/contribution-fx.svg" />
+  </picture>
+</a>
